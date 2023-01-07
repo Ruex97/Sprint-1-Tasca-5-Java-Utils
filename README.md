@@ -1,10 +1,12 @@
 Which are the command lines for All exercices:
 
-1: First you have to make sure you are in the correct route. command cd "NameOfDirectory" will move you to any directory you want. with cd .. you go back one directory. 
+1: First you have to make sure you are in the correct route. command cd "NameOfDirectory" will move you to any directory you want. 
+with cd .. you go back one directory. 
+
 2: Once you are in the correct directory, you need the compile the file (.class) with "javac NameOfTheFile.java"
 3: Now you can execute the program with: java "NameOfTheFile" CLArgument(path). 
-You have to tkae into account two things. If you need a command line argument, and you are not including it, program will show you the correct usage. Also if you main class is inside a package, you will have to run your program from src directory, typing NameOfThePackage.NameOfTheFile
-
+You have to tkae into account two things. If you need a command line argument, and you are not including it, program will show you the correct usage. 
+Also if you main class is inside a package, you will have to run your program from src directory, typing NameOfThePackage.NameOfTheFile
 
 
 Exercice 1: 
