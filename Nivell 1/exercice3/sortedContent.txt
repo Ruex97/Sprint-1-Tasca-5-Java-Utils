@@ -1,0 +1,6 @@
+caca  IT'S A DIRECTORY --> D Last modified: Fri Dec 16 11:05:25 CET 2022
+culo  IT'S A DIRECTORY --> D Last modified: Fri Dec 16 11:05:25 CET 2022
+jsontest.json  IT'S A FILE --> F Last modified: Fri Dec 16 11:05:25 CET 2022
+pis  IT'S A DIRECTORY --> D Last modified: Fri Dec 16 11:05:25 CET 2022
+pruebaka.txt  IT'S A FILE --> F Last modified: Fri Dec 16 11:05:25 CET 2022
+pruebita.txt  IT'S A FILE --> F Last modified: Fri Dec 16 11:05:25 CET 2022
