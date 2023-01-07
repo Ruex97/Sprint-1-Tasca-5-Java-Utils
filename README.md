@@ -14,29 +14,46 @@ Also if you main class is inside a package, you will have to run your program fr
 
 
 Exercice 1: 
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src\exercice1>javac App.java 
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src\exercice1>cd ..
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src>java exercice1.App C:\Users\xavir\Desktop\testdir
 
 Exercice 2: 
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src\exercice2>javac App.java 
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src\exercice2>cd ..
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src>java exercice2.App C:\Users\xavir\Desktop\testdir
 
 Exercice 3: 
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src\exercice3>javac App.java 
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src\exercice3>cd ..
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src>java exercice3.App C:\Users\xavir\Desktop\testdir
 
+
 Exercice 4: 
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src\exercice4>javac App.java 
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src\exercice4>cd ..
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src>java exercice4.App C:\Users\xavir\Desktop\testdir\pruebita.txt
 
 Exercice 5: 
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src\exercice5>javac App.java Dog.java
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src\exercice5>cd ..
+
 C:\Users\xavir\eclipse-workspace\S1.05 Nivell 1\src>java exercice5.App C:\Users\xavir\Desktop\testdir
+
 
 
 
